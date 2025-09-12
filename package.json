@@ -1,0 +1,14 @@
+{
+  "name": "etsy-e2e-playwright",
+  "version": "1.0.0",
+  "description": "Etsy E2E tests with Playwright (TS)",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.3.1"
+  }
+}
